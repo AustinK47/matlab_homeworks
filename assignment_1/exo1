@@ -1,0 +1,16 @@
+% Author Name: Austin Kreyenhagen
+% Email: kreyen94@rowan.edu
+% Course: MATLAB Programming - Fall 2024
+% Assignment: Homework 1
+% Date: 10/04/24
+
+% creating variables
+r = 5
+% Calculation the Area of the circle
+a = %Area
+% Calculating the Circumference of the circle
+c = %Circumference
+% Printing the results
+fprintf('The radius of our circle is %f \n', r)
+fprintf('area is %f \n', a)
+fprintf('circumference is %f \n', c)
