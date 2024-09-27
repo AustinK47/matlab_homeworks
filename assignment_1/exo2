@@ -1,0 +1,4 @@
+% Gettng user input
+user_input = input("Give me a number ")
+% Converting the temperature to F
+F = (C * 9/5) + 32
